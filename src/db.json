@@ -1,0 +1,10 @@
+[
+    {
+        "email": "admin@blackfishid.com",
+        "password": "bL@ckFI$hID"
+    },
+    {
+        "email": "guest@blackfishid.com",
+        "password": "guest-bL@ckFI$hID"
+    }
+]
